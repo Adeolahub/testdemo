@@ -1,4 +1,7 @@
 #!/bin/bash
+#############
+#owner:adeola
+# date:1-1-1
 
 # GitHub API URL
 API_URL="https://api.github.com"
